@@ -22,6 +22,8 @@ Project manager in adaption of new QMS system company wide.
 
 Working with Lean Six Sigma Methodologies to improve business processes in rail, marine, transit and defense manufacturing using:
 
+- Change Managment
+- Empowering staff with tools & structure
 - Value Stream Mapping
 - Root Cause Analysis & Investigation
 - Auditing and Inspections
